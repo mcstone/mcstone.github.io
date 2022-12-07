@@ -1,6 +1,7 @@
 # Maureen C. Stone
 
 Retired Research Scientist
+
 email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 [(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
 
@@ -38,8 +39,8 @@ My research interests are in the multi-disciplinary areas of perception, design,
 1988-1989 University of Waterloo, Computer Graphics Lab Visiting Scientist, worked on research projects with William Cowan, John Beatty, Kelly Booth and their students (6-month sabbatical)
 
 # Education
-1978 California Institute of Technology, M.S. in Computer Science
-1975 University of Illinois, M.S. in Electrical Engineering. Thesis: Applications of Data Compression to the PLATO IV Communications System. Advisor: Roger Johnson
+1978 California Institute of Technology, M.S. in Computer Science  
+1975 University of Illinois, M.S. in Electrical Engineering. Thesis: Applications of Data Compression to the PLATO IV Communications System. Advisor: Roger Johnson  
 1973 University of Illinois: B.S. in Computer Engineering
 
 # Professional Activities
