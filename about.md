@@ -1,8 +1,6 @@
 # Maureen C. Stone
 
 Retired Research Scientist
-
-Woodinville, WA 98072 <br>
 email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 [(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
 
@@ -22,12 +20,9 @@ My research interests are in the multi-disciplinary areas of perception, design,
 1998-2012 Independent consultant, worked on legal and technical projects in digital color, visualization, graphics and human-computer interaction.
 
 ## Xerox Palo Alto Research Center
-1994-1998 Principal Scientist
-
-1989-1994 Research Manager
-
-1980-1989 Member of the Research Staff
-
+1994-1998 Principal Scientist  
+1989-1994 Research Manager  
+1980-1989 Member of the Research Staff  
 1978-1980 Member of the Programming Staff
 
 ## University engagements
@@ -57,8 +52,6 @@ Society for Imaging Sciences and Technology (IS&T) Color Imaging Conference: Tec
 Web3D Consortium Co-chair of the VRML Conformance and Interoperability Working Group (focus on Color Fidelity), 1997–1999; Co-chair of the VRML 98 technical papers committee, member of the VRML 99 papers committee.
 
 # Awards
-2020 IEEE Visualization Academy
-
-1993 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology.
-
+2020 IEEE Visualization Academy  
+1993 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology.  
 1987 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System, 1987.
