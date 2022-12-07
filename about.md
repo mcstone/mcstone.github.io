@@ -1,11 +1,9 @@
 # Maureen C. Stone
 
-Retired Research Scientist
-
+Retired Research Scientist<br>
 Woodinville, WA 98072
 
-email: [mstone@acm.com](mailto:mstone@acm.com)
-
+email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 [(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
 
 # Research Interests
