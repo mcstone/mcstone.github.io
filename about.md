@@ -6,9 +6,9 @@ Retired Research Scientist
 
 (425) 205-0558
 
-email: [maureen.stone@gmail.com](mailto:maureen.stone@gmail.com)
+email: [mstone@acm.com](mailto:mstone@acm.com)
 
-web: [sites.google.com/view/maureen-stone/home](https://sites.google.com/view/maureen-stone/home), [research.tableau.com/users/maureen-stone](../research.tableau.com/users/maureen-stone)
+web: [(old) Tableau Research](https://research.tableau.com/user/maureen-stone)
 
 # Research Interests
 
