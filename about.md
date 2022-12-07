@@ -11,11 +11,11 @@ My research interests are in the multi-disciplinary areas of perception, design,
 # Experience
 ## Tableau Software (acquired by Salesforce, April 2020)
 
-2022-retired Senior Principal Research Scientist (retired June 1, 2022)
-2017-2021 Director, Tableau Research
-2015-2017 Research Manager
-2012-2015 Research Scientist
-2004-2011 Consultant, color palette design and UX
+- 2022-retired Senior Principal Research Scientist (retired June 1, 2022)
+- 2017-2021 Director, Tableau Research
+- 2015-2017 Research Manager
+- 2012-2015 Research Scientist
+- 2004-2011 Consultant, color palette design and UX
 
 ## StoneSoup Consulting
 1998-2012 Independent consultant, worked on legal and technical projects in digital color, visualization, graphics and human-computer interaction.
