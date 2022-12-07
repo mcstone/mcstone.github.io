@@ -1,8 +1,11 @@
 # Maureen C. Stone
 
 Retired Research Scientist
+
 Woodinville, WA 98072
+
 email: [mstone@acm.com](mailto:mstone@acm.com)
+
 [(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
 
 # Research Interests
@@ -12,9 +15,13 @@ My research interests are in the multi-disciplinary areas of perception, design,
 ## Tableau Software (acquired by Salesforce, April 2020)
 
 2022-retired Senior Principal Research Scientist (retired June 1, 2022)
+
 2017-2021 Director, Tableau Research
+
 2015-2017 Research Manager
+
 2012-2015 Research Scientist
+
 2004-2011 Consultant, color palette design and UX
 
 ## StoneSoup Consulting
@@ -22,8 +29,11 @@ My research interests are in the multi-disciplinary areas of perception, design,
 
 ## Xerox Palo Alto Research Center
 1994-1998 Principal Scientist
+
 1989-1994 Research Manager
+
 1980-1989 Member of the Research Staff
+
 1978-1980 Member of the Programming Staff
 
 ## University engagements
@@ -54,5 +64,7 @@ Web3D Consortium Co-chair of the VRML Conformance and Interoperability Working G
 
 # Awards
 2020 IEEE Visualization Academy
+
 1993 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology.
+
 1987 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System, 1987.
