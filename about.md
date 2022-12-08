@@ -23,6 +23,8 @@ email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 1978-1980 Member of the Programming Staff
 
 ## University engagements
+Nov. 2022-present. Univeristy of Washington,  Paul G. Allen School of Computer Science & Engineering, Adjunct professor.
+
 2006-2014 Simon Fraser University, School of Interactive Arts and Sciences
  Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
 
@@ -49,6 +51,6 @@ Society for Imaging Sciences and Technology (IS&T) Color Imaging Conference: Tec
 Web3D Consortium Co-chair of the VRML Conformance and Interoperability Working Group (focus on Color Fidelity), 1997–1999; Co-chair of the VRML 98 technical papers committee, member of the VRML 99 papers committee.
 
 # Awards
-2020 IEEE Visualization Academy  
-1993 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology.  
-1987 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System, 1987.
+IEEE Visualization Academy (2020) 
+Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology (1993)  
+Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System, 1987.
