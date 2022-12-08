@@ -10,7 +10,7 @@ email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 Senior Principal Research Scientist (retired June 1, 2022)  
 Director, Tableau Research (2017-2021)  
 Research Manager (2015-2017)  
-Research Scientist(2012-2015)  
+Research Scientist (2012-2015)  
 Consultant, color palette design and UX  (2004-2011)
 
 ## StoneSoup Consulting
@@ -32,7 +32,7 @@ Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Bria
 University of Washington, iSchool (2006, 2007)<br>
  Guest Faculty, co-taught (with Polle Zelleweger) the undergraduate infoVIS course Fall 2006 and 2007.
 
-Stanford University, Graphics and HCI labs (2000-2003)
+Stanford University, Graphics and HCI labs (2000-2003)<br>
  Consultant, iRoom research and development, with Pat Hanrahan, Terry Winograd and their students.
 
 University of Waterloo, Computer Graphics Lab (1988-1989) <br>
@@ -53,6 +53,6 @@ Society for Imaging Sciences and Technology (IS&T) Color Imaging Conference: Tec
 Web3D Consortium Co-chair of the VRML Conformance and Interoperability Working Group (focus on Color Fidelity), 1997–1999; Co-chair of the VRML 98 technical papers committee, member of the VRML 99 papers committee.
 
 # Awards
-IEEE Visualization Academy (2020) 
-Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology (1993)  
+IEEE Visualization Academy (2020)<br>
+Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology (1993)<br>
 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System (1987)
