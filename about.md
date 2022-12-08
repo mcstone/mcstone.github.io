@@ -1,5 +1,5 @@
 # Maureen C. Stone
-While best known for my expertise in digital color and its application, I have a broad interest in the multi-disciplinary areas of perception, design, and interactive visualization. I recently retired from Tableau Research, but intend to remain a (somewhat) active member of the visualization research community.
+My research interests are in the multi-disciplinary areas of perception, design, and interactive visualization. Broadly speaking, I am interested in understanding both why good principles of visual design work cognitively and perceptually, and how they can be applied to computer-generated visualizations, presentations, and interfaces.
 
 email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 [(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
