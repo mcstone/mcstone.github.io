@@ -23,18 +23,20 @@ email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 1978-1980 Member of the Programming Staff
 
 ## University engagements
-Nov. 2022-present. University of Washington,  Paul G. Allen School of Computer Science & Engineering, Adjunct professor.
+University of Washington,  Paul G. Allen School of Computer Science & Engineering (Nov. 2022-present)<br>
+Adjunct professor.
 
-2006-2014 Simon Fraser University, School of Interactive Arts and Sciences <br>
-&emsp Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
+Simon Fraser University, School of Interactive Arts and Sciences (2006-2014)<br>
+Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
 
-2006, 2007 University of Washington, iSchool<br>
+University of Washington, iSchool (2006, 2007)<br>
  Guest faculty, co-taught (with Polle Zelleweger) the undergraduate infoVIS course Fall 2006 and 2007.
 
-2000-2003 Stanford University, Graphics and HCI labs
+Stanford University, Graphics and HCI labs (2000-2003)
  Consultant, iRoom research and development, with Pat Hanrahan, Terry Winograd and their students.
 
-1988-1989 University of Waterloo, Computer Graphics Lab Visiting Scientist, worked on research projects with William Cowan, John Beatty, Kelly Booth and their students (6-month sabbatical)
+University of Waterloo, Computer Graphics Lab (1988-1989) <br>
+Visiting Scientist, worked on research projects with William Cowan, John Beatty, Kelly Booth and their students (6-month sabbatical)
 
 # Education
 1978 California Institute of Technology, M.S. in Computer Science  
@@ -53,4 +55,4 @@ Web3D Consortium Co-chair of the VRML Conformance and Interoperability Working G
 # Awards
 IEEE Visualization Academy (2020) 
 Xerox Corporate Research Group Excellence in Science and Technology Award, for the Magic Lens technology (1993)  
-Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System, 1987.
+Xerox Corporate Research Group Excellence in Science and Technology Award, for the Gargoyle Illustration System (1987)
