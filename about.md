@@ -2,7 +2,7 @@
 My research interests are in the multi-disciplinary areas of perception, design, and interactive visualization. Broadly speaking, I am interested in understanding both why good principles of visual design work cognitively and perceptually, and how they can be applied to computer-generated visualizations, presentations, and interfaces.
 
 email: [mstone@acm.com](mailto:mstone@acm.com) <br>
-[(old website) Tableau Research](https://research.tableau.com/user/maureen-stone)
+[Tableau Research website](https://research.tableau.com/user/maureen-stone)
 
 # Experience
 ## Tableau Software (acquired by Salesforce, April 2020)
@@ -23,12 +23,12 @@ email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 1978-1980 Member of the Programming Staff
 
 ## University engagements
-Nov. 2022-present. Univeristy of Washington,  Paul G. Allen School of Computer Science & Engineering, Adjunct professor.
+Nov. 2022-present. University of Washington,  Paul G. Allen School of Computer Science & Engineering, Adjunct professor.
 
-2006-2014 Simon Fraser University, School of Interactive Arts and Sciences
- Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
+2006-2014 Simon Fraser University, School of Interactive Arts and Sciences <br>
+&emsp Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
 
-2006, 2007 University of Washington, iSchool
+2006, 2007 University of Washington, iSchool<br>
  Guest faculty, co-taught (with Polle Zelleweger) the undergraduate infoVIS course Fall 2006 and 2007.
 
 2000-2003 Stanford University, Graphics and HCI labs
