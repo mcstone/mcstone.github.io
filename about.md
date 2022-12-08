@@ -7,30 +7,30 @@ email: [mstone@acm.com](mailto:mstone@acm.com) <br>
 # Experience
 ## Tableau Software (acquired by Salesforce, April 2020)
 
-2022-retired Senior Principal Research Scientist (retired June 1, 2022)  
-2017-2021 Director, Tableau Research  
-2015-2017 Research Manager  
-2012-2015 Research Scientist  
-2004-2011 Consultant, color palette design and UX  
+Senior Principal Research Scientist (retired June 1, 2022)  
+Director, Tableau Research (2017-2021)  
+Research Manager (2015-2017)  
+Research Scientist(2012-2015)  
+Consultant, color palette design and UX  (2004-2011)
 
 ## StoneSoup Consulting
-1998-2012 Independent consultant, worked on legal and technical projects in digital color, visualization, graphics and human-computer interaction.
+Independent consultant, worked on legal and technical projects in digital color, visualization, graphics and human-computer interaction.(1998-2012)
 
 ## Xerox Palo Alto Research Center
-1994-1998 Principal Scientist  
-1989-1994 Research Manager  
-1980-1989 Member of the Research Staff  
-1978-1980 Member of the Programming Staff
+ Principal Scientist (1994-1998) <br>
+Research Manager (1989-1994)<br> 
+Member of the Research Staff (1980-1989)<br>
+Member of the Programming Staff (1978-1980)
 
 ## University engagements
 University of Washington,  Paul G. Allen School of Computer Science & Engineering (Nov. 2022-present)<br>
-Adjunct professor.
+Adjunct Professor, visual analysis, digital color, accessibility 
 
 Simon Fraser University, School of Interactive Arts and Sciences (2006-2014)<br>
 Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.
 
 University of Washington, iSchool (2006, 2007)<br>
- Guest faculty, co-taught (with Polle Zelleweger) the undergraduate infoVIS course Fall 2006 and 2007.
+ Guest Faculty, co-taught (with Polle Zelleweger) the undergraduate infoVIS course Fall 2006 and 2007.
 
 Stanford University, Graphics and HCI labs (2000-2003)
  Consultant, iRoom research and development, with Pat Hanrahan, Terry Winograd and their students.
@@ -39,9 +39,9 @@ University of Waterloo, Computer Graphics Lab (1988-1989) <br>
 Visiting Scientist, worked on research projects with William Cowan, John Beatty, Kelly Booth and their students (6-month sabbatical)
 
 # Education
-1978 California Institute of Technology, M.S. in Computer Science  
-1975 University of Illinois, M.S. in Electrical Engineering. Thesis: Applications of Data Compression to the PLATO IV Communications System. Advisor: Roger Johnson  
-1973 University of Illinois: B.S. in Computer Engineering
+California Institute of Technology, M.S. in Computer Science (1978)<br>
+University of Illinois, M.S. in Electrical Engineering (1975)<br> 
+University of Illinois: B.S. in Computer Engineering (1973) <br>
 
 # Professional Activities
 Association for Computing Machines (ACM) Associate Editor of Transactions on Graphics, 1987–1993; Member of the Executive Committee for SIGGRAPH, 1988–1990; Technical Papers Chair for the 1987 SIGGRAPH Conference; Member of the SIGGRAPH technical papers committee in 1983, 1984, 1986, 1987 and 1995 (member 1978–present)
