@@ -5,5 +5,7 @@ While best known for my expertise in digital color and its application, I have a
 
 
 [About](https://mcstone.github.io/about)
-[Publications](https://mcstone.github.io/Publications)  
+
+[Publications](https://mcstone.github.io/Publications) 
+ 
 [Tableau Research website](https://research.tableau.com/user/maureen-stone)
