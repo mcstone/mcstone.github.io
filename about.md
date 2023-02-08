@@ -1,7 +1,7 @@
 # Maureen C. Stone
 My research interests are in the multi-disciplinary areas of perception, design, and interactive visualization. Broadly speaking, I am interested in understanding why good principles of visual design work cognitively and perceptually, and how they can be applied to computer-generated visualizations, presentations, and interfaces.
 
-email: [mstone@acm.com](mailto:mstone@acm.com) <br>
+email: [mstone@acm.org](mailto:mstone@acm.org) <br>
 [Tableau Research website](https://research.tableau.com/user/maureen-stone)
 
 # Experience
