@@ -2,7 +2,8 @@
 My research interests are in the multi-disciplinary areas of perception, design, and interactive visualization. Broadly speaking, I am interested in understanding why good principles of visual design work cognitively and perceptually, and how they can be applied to computer-generated visualizations, presentations, and interfaces.
 
 email: [mstone@acm.com](mailto:mstone@acm.com) <br>
-[Tableau Research website](https://research.tableau.com/user/maureen-stone)
+website: [Personal](https://mcstone.github.io/), 
+[Tableau Research](https://research.tableau.com/user/maureen-stone)
 
 # Experience
 ## Tableau Software (acquired by Salesforce, April 2020)

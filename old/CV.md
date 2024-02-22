@@ -8,7 +8,7 @@ Retired Research Scientist
 
 email: [maureen.stone@gmail.com](mailto:maureen.stone@gmail.com)
 
-web: [sites.google.com/view/maureen-stone/home](https://sites.google.com/view/maureen-stone/home), [research.tableau.com/users/maureen-stone](../research.tableau.com/users/maureen-stone)
+web: [Personal](https://mcstone.github.io/), [Tableau Research](../research.tableau.com/users/maureen-stone)
 
 # Research Interests
 
@@ -43,6 +43,8 @@ My research interests are in the multi-disciplinary areas of perception, design,
 1978-1980 Member of the Programming Staff
 
 ## University engagements
+
+2022-present University of Washington, adjunct professor, working primarily with the Interactive Data Lab (Jeff Heer, Leilani Battle), but also with CREATE (Jen Mankoff).
 
 2006-2014 Simon Fraser University, School of Interactive Arts and Sciences
  Adjunct Professor, worked on research projects with Lyn Bartram, John Dill, Brian Fisher and their students.

@@ -58,7 +58,8 @@ M. Stone, [**A Field Guide to Digital Color**](http://www.amazon.com/review/prod
 
 ## Reviewed columns, blogs, sidebars and videos
 
-1. M. Stone. Three challenges for visualization. Industry Perspective video, in IEEE Computing Now, theme issue on [Advances in Information Visualization](https://www.computer.org/publications/tech-news/computing-now/advances-in-information-visualization), edited by Jeff Heer. July 2017.
+1. C. Ware, M. Stone and D. A. Szafir, "Rainbow Colormaps Are Not All Bad," in IEEE Computer Graphics and Applications, vol. 43, no. 3, pp. 88-93, 1 May-June 2023, doi: 10.1109/MCG.2023.3246111.
+2. M. Stone. Three challenges for visualization. Industry Perspective video, in IEEE Computing Now, theme issue on [Advances in Information Visualization](https://www.computer.org/publications/tech-news/computing-now/advances-in-information-visualization), edited by Jeff Heer. July 2017.
 2. M. Stone, How we designed the new color palettes in Tableau 10. [Tableau blog](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782). (2016).
 3. M. Stone, In color perception, size matters. In Vis Viewpoints, Computer Graphics and Applications, IEEE (Volume:32 , Issue: 2 ).
 4. M. Stone, Sidebar in Presentation Zen Design: Simple Design Principles and Techniques to Enhance Your Presentations, by Garr Reynolds. (2009)
@@ -109,7 +110,7 @@ M. Stone, [**A Field Guide to Digital Color**](http://www.amazon.com/review/prod
 
 1. [Helping People See & Understand Data](https://dfp.ubc.ca/news-and-events/events/helping-people-see-understand-data). UBC Designing for People, 2019.
 2. Color Design: From Seeing Red to Feeling Blue, at the Visual Storytelling and Data Visualization seminar series, [AIM Institute](https://aiminstitute.org/), Omaha, NB, September 2007.
-3. Designing Colors for Data, at the I[nternational Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging](http://computational-aesthetics.org/), Banff, AB, Canada, June 22, 2007.
+3. Designing Colors for Data, at the [International Symposium on Computational Aesthetics in Graphics, Visualization, and Imaging](http://computational-aesthetics.org/), Banff, AB, Canada, June 22, 2007.
 4. Color in Information Display. Graduate [colloquium](http://www.sfu.ca/siatcolloquium/2006/01/january-18th-maureen-stone.html) at [SIAT](http://www.siat.sfu.ca/), the School of Interactive Arts and Technology at Simon Fraser University, Surrey, BC, Canada, January 18, 2006
 5. Color in Information Display. Rochester Institute of Technology [Seminar Series, ](http://www.cis.rit.edu/info/seminars.html)October 2005.
 
